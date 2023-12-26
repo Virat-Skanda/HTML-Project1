@@ -131,6 +131,7 @@
         padding-right: 0;
         width: 100%;
         border-top: 1px solid grey;
+        position: sticky;
   }
   .elem1 h1{
     text-transform: uppercase;
@@ -143,7 +144,7 @@
   .elem1 img{
 
     opacity: 0;
-    height: 10%;
+    height: 110%;
     z-index: 99999 ;
     position: absolute;
   }
